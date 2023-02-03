@@ -1,5 +1,5 @@
 # TED-Talks-Views-Prediction-
-Supervised Learning -Regression
+## Supervised Learning -Regression
 
 ![image](https://user-images.githubusercontent.com/102039796/216668604-7e499001-7f76-48ae-ad62-c5b62d175085.png)
 
